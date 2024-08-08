@@ -10,3 +10,7 @@ function atualizarCPF() {
 
     mostrarCpf.textContent = formatarCpf(cpfInput.value);
 }
+
+/* 
+    13) Faça um comentário de varias linhas no JavaScript no exercicio anterior do CPF.
+*/
