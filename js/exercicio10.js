@@ -12,5 +12,5 @@ function somar() {
 var btnsoma = document.querySelector('#btn-soma'); 
 btnsoma.addEventListener('click', somar);
 
-// Exercício 12) Faça um comentário de uma linha no JavaScript no exercicio anterior
+// Exercício 11) Faça um comentário de uma linha no JavaScript no exercicio anterior
 // Aqui meu comentário de linha
